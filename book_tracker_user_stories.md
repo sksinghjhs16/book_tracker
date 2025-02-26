@@ -1,10 +1,9 @@
 # Book Tracker User Story
-Login & Registration
-
-Account Registration: As a user, I want to register with my name, email, and password to create an account and track reading progress.
-Login: As a user, I want to log in using email and password to access my reading data.
-Error Handling: As a user, I want an error message if login credentials are incorrect.
-Store user data: User details will be saved in local storage so that the data persists between app sessions.
+## User Stories for Registration & Login
+Application Registration: As a new user, I want to register by entering my name, email, and password so that I can track my reading progress.
+Application Login: As a registered user, I want to log in using my email and password so that I can access my book list and progress.
+Error Feedback on Signup & Login: As a user, I want to receive error messages if I enter incorrect details during signup or login so that I can correct them.
+Store User Data: As a user, I want my login details to be stored securely so that I don’t have to log in every time I open the app.
 
 Homepage Features
 
